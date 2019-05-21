@@ -1,13 +1,13 @@
 # custom-redis
-Custom Redis
+**Custom Redis**
 
-* Para executar o projeto é necessario executar o jar existente dentro da pasta \jar, através do comando:
+Para executar o projeto Ã© necessario executar o jar existente dentro da pasta \jar, atravÃ©s do comando:
 
-java -jar ExecutableCustomRedis.jar
+* java -jar ExecutableCustomRedis.jar
 
-* Para executar o projeto SpringBoot, executar os comandos na pasta raiz:
+Para executar o projeto SpringBoot, executar os comandos na pasta raiz:
 
-** gradlew build
-** gradlew bootRun
+* gradlew build
+* gradlew bootRun
 
-** Nesta aplicação estao disponiveis apenas as funcoes SET (without seconds), GET, DEL
+Nesta aplicaÃ§Ã£o estao disponiveis apenas as funcoes SET (without seconds), GET, DEL
