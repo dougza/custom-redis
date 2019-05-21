@@ -5,7 +5,7 @@ Para executar o projeto é necessario executar o jar existente dentro da pasta \
 
 * java -jar ExecutableCustomRedis.jar
 
-Para executar o projeto SpringBoot, executar os comandos na pasta raiz:
+Para executar o projeto (opcional) SpringBoot, executar os comandos na pasta raiz:
 
 * gradlew build
 * gradlew bootRun
